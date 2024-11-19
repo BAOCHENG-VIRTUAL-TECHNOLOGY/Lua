@@ -1,5 +1,42 @@
 # Lua
 
+| Content                |                                                              |                                                  |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| LuaTypes               | A gentle introduction to variable types used in Lua.         |                                                  |
+| Assignment             | More on setting variable values.                             |                                                  |
+| Numbers                | The Lua number type and related functions.                   |                                                  |
+| Strings                | String (text) usage and related functions.                   |                                                  |
+| Operators              | Using arithmetic and logical operators.                      |                                                  |
+| Control Structure      | Keywords if, while, repeat, for, break.                      |                                                  |
+| Tables                 | Lua tables and related functions.                            |                                                  |
+| Functions              | Introduction to functions.                                   |                                                  |
+| Scope                  | Introduction to local variables and closures.                |                                                  |
+| Metamethods            | Lua's powerful extension mechanism.                          |                                                  |
+| Environments           | Lua's global namespace mechanism.                            |                                                  |
+| Modules                | Modules, grouping related code.                              |                                                  |
+| Object Orientation     | An introduction to simulating classes.                       |                                                  |
+| Patterns               | String searching.                                            |                                                  |
+| Coroutines             | Functions that can return part way through and then resume later. |                                                  |
+| Iterators              | Writing custom for iterators.                                |                                                  |
+| Garbage Collection     | What happens to deleted objects?                             |                                                  |
+| Weak Tables            | Special table mode where elements are weak references.       |                                                  |
+| Lua standard libraries |                                                              | Brief explanation and examples of usage of each. |
+|                        | Core Functions                                               | Basic functions e.g. dofile, assert, error, etc. |
+|                        | Math Library                                                 | Mathematical functions                           |
+|                        | String Library                                               | String manipulation                              |
+|                        | Table Library                                                | Table (or array) manipulation                    |
+|                        | Os Library                                                   | Operating system facilities                      |
+|                        | Io Library                                                   | Input/Output facilities                          |
+|                        | Module Library                                               | Module facilities                                |
+|                        | Debug Library                                                | Debugging facilities                             |
+|                        | Coroutine Library                                            | Coroutine manipulation                           |
+| For                    | Detail on the for statement.                                 |                                                  |
+| Threads                | Using Lua in a pre-emptive threading environment.            |                                                  |
+| Optimisation           | Getting good performance from Lua. See OptimisationTips.     |                                                  |
+| Inheritance            | A technique for implementing OO inheritance in Lua.          |                                                  |
+
+## 学习路线
+
 学习 Lua 编程语言可以从以下几个步骤开始：
 
 ### 1. **理解基础概念**
